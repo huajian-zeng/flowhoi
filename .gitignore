@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+conda_env/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.bak
+
+# Local tool state
+.claude/
+
+# Checkpoints
+*.pt
+*.pth
+*.ckpt
+save/
+pretrained_models/
+
+# Experiment tracking and outputs
+runs/
+tb_logs/
+tensorboard/
+wandb/
+outputs/
+results/
+samples/
+samples_*/
+
+# Dataset files, including normalization statistics and splits, are downloaded separately.
+dataset/GRAB_HANDS/representation_full/
+dataset/GRAB_HANDS/representation_grasp/
+dataset/GRAB_HANDS/representation_interaction/
+dataset/GRAB_HANDS/texts_simple/
+dataset/GRAB_HANDS/texts_detailed/
+dataset/GRAB_HANDS/texts_grasp/
+dataset/GRAB_HANDS/*.npy
+dataset/GRAB_HANDS/*.txt
+dataset/HOT3D_HANDS/
+dataset/EGODEX_HANDS/
+Mean_*.npy
+Std_*.npy
+
+
+# Downloaded data and separately licensed visualization assets.
+assets/
+dataset/
+
+# Visualization outputs
+*.mp4
+*.avi
+*.gif
+visualize/output/
+videos/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+*.prof
+*.hdf5
+*.rrd
+downloads/

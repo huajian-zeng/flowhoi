@@ -1,0 +1,15 @@
+# Inference (install torch and torchvision first, matching your CUDA -- see
+# README step 2; neither is listed here so pip does not replace your build.
+# vit_pytorch depends on torchvision, and the PyPI wheel pins an exact torch.)
+numpy==2.2.6
+scipy==1.15.3
+tqdm==4.70.0
+transformers==5.16.1  # T5-Large text encoder (downloaded on first use)
+huggingface_hub==1.30.0  # `hf` CLI used by scripts/download_*.sh
+vit_pytorch==1.4.4  # global occupancy ViT; newer releases change parameter shapes
+
+# Visualization (also requires a system ffmpeg that ships ffprobe)
+aitviewer==1.14.2
+trimesh==4.12.2
+smplx==0.1.28
+scikit-learn==1.7.2

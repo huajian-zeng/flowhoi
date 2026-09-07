@@ -1,0 +1,6 @@
+# aitviewer configuration for this repository (picked up from the working
+# directory). Point smplx_models at the folder holding the MANO / SMPL-X
+# models downloaded from https://mano.is.tue.mpg.de/ and
+# https://smpl-x.is.tue.mpg.de/ (registration required).
+smplx_models: "./assets/smplx"
+export_dir: "./outputs/export"
