@@ -6,7 +6,7 @@
     <sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), <sup>2</sup>Technical University of Munich (TUM), <sup>3</sup>National University of Singapore (NUS), <sup>4</sup>Westlake University
     <br>
   </p>
-  <p align="center"><strong>NeurIPS 2026 (Poster)</strong></p>
+  <p align="center"><strong>NeurIPS 2026</strong></p>
 </p>
 
 <div id="top" align="center">
@@ -20,7 +20,7 @@
 
 ## Updates
 
-[2026-09-25] FlowHOI was accepted to NeurIPS 2026 as a poster. See you in Sydney!
+[2026-09-25] FlowHOI was accepted to NeurIPS 2026. See you in Sydney!
 
 [2026-09-07] Two-stage inference and visualization code released, along with pretrained checkpoints and GRAB/HOT3D demo data.
 
