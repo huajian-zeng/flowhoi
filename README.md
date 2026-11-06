@@ -1,9 +1,11 @@
 <p align="center">
   <h1 align="center"><strong>FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation</strong></h1>
   <p align="center">
-    <a href="https://huajian-zeng.github.io/">Huajian Zeng</a><sup>1</sup>, <a href="https://scholar.google.com/citations?user=vdo-1aYAAAAJ&hl">Lingyun Chen</a><sup>2</sup>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=f7ox7CIAAAAJ">Jiaqi Yang</a><sup>1</sup>, <a href="https://scholar.google.com/citations?user=Lh2CthAAAAAJ&hl">Yuantai Zhang</a><sup>1</sup>, <a href="https://fanshi14.github.io/me/">Fan Shi</a><sup>3</sup>, <a href="https://ethliup.github.io/">Peidong Liu</a><sup>4</sup>, <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a><sup>1</sup>
+    <a href="https://huajian-zeng.github.io/">Huajian Zeng</a><sup>1</sup>, <a href="https://scholar.google.com/citations?user=vdo-1aYAAAAJ&hl">Lingyun Chen</a><sup>1,2</sup>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=f7ox7CIAAAAJ">Jiaqi Yang</a><sup>1,3</sup>, <a href="https://scholar.google.com/citations?user=Lh2CthAAAAAJ&hl">Yuantai Zhang</a><sup>1</sup>, <a href="https://fanshi14.github.io/me/">Fan Shi</a><sup>4</sup>, <a href="https://ethliup.github.io/">Peidong Liu</a><sup>5</sup>, <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a><sup>1,*</sup>
     <br>
-    <sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), <sup>2</sup>Technical University of Munich (TUM), <sup>3</sup>National University of Singapore (NUS), <sup>4</sup>Westlake University
+    <sup>1</sup>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), <sup>2</sup>Technical University of Munich (TUM), <sup>3</sup>ShanghaiTech University, <sup>4</sup>National University of Singapore (NUS), <sup>5</sup>Westlake University
+    <br>
+    <sup>*</sup>Corresponding author
     <br>
   </p>
   <p align="center"><strong>NeurIPS 2026</strong></p>
